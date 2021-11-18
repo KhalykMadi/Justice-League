@@ -468,6 +468,11 @@
         margin-right: 0;
     }
 
+    /* movie */
+    .block-img{
+        height: 750px;
+    }
+
     /* actors */
     .actors-img{
         flex-direction: row;
